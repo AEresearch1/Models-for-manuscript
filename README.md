@@ -8,12 +8,11 @@ The following models are found here as the models are mentioned in the manuscrip
 6. Conv2D-BiLSTM
 7. LSTM-XGB
 8. Conv2D-LSTM-FCN16-XGB
-9. Conv2D-BiLSTM16-FCN32-XGB
+9. Conv2D-BiLSTM16-FCN32-XGB and Conv2D-BiLSTM32-XGB
 10. BiLSTM16-XGB
 11. Conv2D-XGB
 12. BiLSTM32-XGB
-13. Conv2D-BiLSTM32-XGB
-14. Stratified K-fold LSTM
+13. Stratified K-fold LSTM
 
 Please note the following:
 
